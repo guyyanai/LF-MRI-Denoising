@@ -4,3 +4,4 @@ checkpoints
 Data
 Data.zip
 trash
+**/__pycache__/
